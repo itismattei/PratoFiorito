@@ -1,0 +1,5 @@
+quando è 0 cancella tutte le caselle adiacenti
+
+controllo sull'inserimento delle cordinate
+
+commenti
